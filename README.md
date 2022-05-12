@@ -3,7 +3,6 @@
 
 ---
 <p align="left">
-  <a href="https://velog.io/@kathylee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kathylee"/></a>&nbsp
-  <a href="https://www.instagram.com/seohyun_lee_20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seohyun_lee_20/"/></a>&nbsp
-  <a href="mailto:kathyleesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kathyleesh7@gmail.com"/></a>
+  <a href="https://www.instagram.com/seohyun_lee_20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hy__wuuuuuuuu/"/></a>&nbsp
+  <a href="mailto:kathyleesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ghw9174@gmail.com"/></a>
 </p>
