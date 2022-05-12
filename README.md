@@ -8,7 +8,9 @@
 </p>
 
 ---
+
 <br>
+
 <h2 align="right">Tech</h2>
 <p align="right">   
   <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -21,7 +23,17 @@
   <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
 </p>
-<br>
-<h2 align="left">BackJoon</h2>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghw0926)](https://solved.ac/ghw0926)<br/>
 
+<br>
+
+<h2 align="left">BackJoon</h2>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghw0926)](https://solved.ac/ghw0926)
+
+<br>
+
+<h2 align="right">Others</h2>
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHWooo&layout=compact)](https://github.com/GHWooo/github-readme-stats) &nbsp 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHWooo&show_icons=true&theme=radical)
+</p>
