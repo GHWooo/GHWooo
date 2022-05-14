@@ -39,13 +39,3 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghw0926)](https://solved.ac/ghw0926)
-
-<br>
-
-<h2 align="right">GitHub</h2>
-<div align="right">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHWooo&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHWooo&layout=compact)](https://github.com/GHWooo/github-readme-stats)
-  
-</div>
