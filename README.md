@@ -32,10 +32,3 @@
   <a><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
 </p>
-
-<br>
-
-<h2 align="left">BackJoon</h2>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghw0926)](https://solved.ac/ghw0926)
