@@ -27,8 +27,31 @@
 
 <h2 align="right">Tools</h2>
 <p align="right">   
-  <a><img src="https://img.shields.io/badge/Visualstudio-5C2D91?style=flat-square&logo=Visualstudio&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat-square&logo=Visualstudiocode&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
-  <a><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
 </p>
+
+<br>
+
+<h2 align="left">Activity History</h2>
+<div align='left'>
+  
+|     Organization    | Position |            Activity            | Date |
+|:-------------------:|:--------:|:------------------------------:|:----:|
+| KIT 학습공동체 14기 |   멘토   | 사동고등학교 웹프로그래밍 교육 | 2022 |
+| 멋쟁이사자처럼 10기 |  운영진  |       Back-End Track 교육      | 2022 |
+|      SAT 동아리     |   부원   |         알고리즘 스터디        | 2021 |  
+  
+</div>
+
+<br>
+
+<h2 align="right">Tools</h2>
+<div align="right">  
+ 
+| Project name | Team size |         Position         |    Progress    | Date |
+|:------------:|:---------:|:------------------------:|:--------------:|:----:|
+|  SlowLetter  |    개인   |            All           |    개발 단계   | 2022 |
+|   EGG-TAXI   |    3명    | Front-End & UI,UX Design | 베타 버전 론칭 | 2022 |
+ 
+</div>
