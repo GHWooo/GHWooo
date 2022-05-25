@@ -46,7 +46,7 @@
 
 <br>
 
-<h2 align="right">Tools</h2>
+<h2 align="right">Projects</h2>
 <div align="right">  
  
 | Project name | Team size |         Position         |    Progress    | Date |
