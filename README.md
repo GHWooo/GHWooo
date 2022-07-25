@@ -45,7 +45,6 @@
  
 | Project name | Team size |         Position         |    Progress    | Date |
 |:------------:|:---------:|:------------------------:|:--------------:|:----:|
-|  SlowLetter  |    개인   |            All           |    개발 단계   | 2022 |
 |   EGG-TAXI   |    3명    | Front-End & UI,UX Design | 베타 버전 론칭 | 2022 |
  
 </div>
