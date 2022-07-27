@@ -3,6 +3,7 @@
 <p align="right">
   <a href="https://www.instagram.com/hy__wuuuuuuuu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hy__wuuuuuuuu/"/></a>&nbsp
   <a href="mailto:ghw9174@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ghw9174@gmail.com"/></a>
+  <a href="https://velog.io/@kozel"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kozel"/></a>
 </p>
 
 
